@@ -1,0 +1,17 @@
+
+
+MONGO_URI = mongodb+srv://AshmitRanjan:Ashmit17@cloud.jcw7c9u.mongodb.net 
+
+JWT_SECRET=djgjkdshbgjkhfnjksdfhbnsjkdfsdhjfk
+
+ADMIN_SECRET_KEY= sample admin kjey
+
+NODE_ENV = DEVELOPMENT
+
+CLIENT_URL = http://localhost:5173/
+
+CLOUDINARY_CLOUD_NAME = dgj9ysqda
+CLOUDINARY_API_KEY = 161123645141991
+CLOUDINARY_API_SECRET = P2ge0G7ScLDxCKPkqYlwvCEvhjk
+
+allowedOrigins = http://localhost:5173
